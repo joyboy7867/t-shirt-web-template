@@ -1,0 +1,401 @@
+body{
+    background-color: #609966;
+}
+.navbar{
+    background-color: rgba(0, 0, 0, 0.511);
+}
+.nav-item{
+    padding-right: 10px;
+    margin-right: 120px;
+    
+    
+}
+.hat{
+    position: absolute;
+    left: 65%;
+    top: 10%;
+    rotate: 20deg;
+}
+.zoro{
+    width: 35%;
+    border-radius: 25px;
+   
+    position: absolute;
+}
+em{
+    color: #ffffff;
+    margin-left: 38%;
+}
+h6{
+    color: white;
+    font-size:large;
+}
+.sticky-top{
+    margin-left: 25px;
+}
+.container{
+    background-color: #a8d741;
+    margin-top: 80px;
+    width: 90%; height: 600px;
+    border-radius:25px;
+    align-items: center;
+    text-align: center;
+   
+}
+
+
+.create{
+    
+    padding-top: 10%;
+    font-weight: lighter;
+    
+}
+.design{
+    margin-top: 4%;
+    font-size: 80px;
+    
+}
+.btn{
+    margin-top: 25px;
+     border-radius: 40px;
+     color:white;
+     box-shadow:0 8px 16px 0 rgba(0,0,0,0.2);
+    border-color: black;
+     padding: 20px 16px;
+}
+h3{
+    margin-top: 2%;
+    font-weight: lighter;
+    letter-spacing: 2px;
+    font-family: 'Mynerve', cursive;
+
+}
+h2{
+    font-family: 'Rubik Vinyl', cursive;
+    
+}
+h1{
+    font-family: 'Rampart One', cursive;
+}
+.font{
+    font-family: 'Fredoka One', cursive;
+}
+hr{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 8%;
+}
+.card-title{
+    font-family: 'Mynerve', cursive;
+}
+.hr2{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 2%;
+}
+.feature1{
+    margin-left: 145px;
+
+
+}
+
+.col-sm{
+    margin-top: 5%;
+    margin-left: 5%;
+    
+    text-align: center;
+   
+    
+}
+.fa-solid{
+    margin-bottom: 2%;
+    color: #a8d741;
+}
+.how{
+    color: aliceblue;
+    margin-left: 2%;
+    position: absolute;
+    
+}
+
+.blackbox{
+    background-color: black;
+    
+    margin-top: 80px;
+    width: 90%; height: 800px;
+    border-radius:25px;
+    
+    margin-left: 6%;
+}
+.greenbox1{
+    background-color: #a8d741;
+    margin-top: 7%;
+     height: 630px;
+    border-radius:25px;
+    align-items: center;
+    text-align: center;
+    margin-left: 8%;
+    width: 30%;
+    position: relative;
+    box-shadow: 0 6px 12px 0 white;
+    
+}
+.greenbox1:hover{
+    animation-name: rotate;
+    animation-duration: 3s;
+}
+.greenbox2:hover{
+    animation-name: rotate;
+    animation-duration: 3s;
+}
+.greenbox2{
+    background-color: #a8d741;
+    margin-top: 7%;
+     height: 610px;
+    border-radius:25px;
+    align-items: center;
+    text-align: center;
+    margin-left: 52%;
+    width: 30%;
+    position: absolute;
+    box-shadow: 0 6px 12px 0 white;
+}
+.img{
+    height: 400px;
+    border-radius: 25px;
+    margin-top: 4%;
+    box-shadow:0 8px 16px 0 rgba(0,0,0,0.782);
+    
+}
+
+.btn1{
+    margin-top: 66%;
+    color: black;
+    width: 130px;
+    border-radius: 25px;
+    margin-left: 10%;
+    background-color: #a8d741;
+    box-shadow:0 8px 16px 0 rgba(0,0,0,0.782);
+}
+.btn2{
+    
+    color: black;
+    width: 130px;
+    border-radius: 25px;
+    background-color: #a8d741;
+    margin-left: 25%;
+    margin-top: 68%;
+    box-shadow:0 10px 20px 0 rgba(0, 0, 0, 0.782);
+    
+}
+
+.tablerow{
+    text-align: center;
+    
+    
+}
+.tadata{
+    
+    width: 50%;
+}
+h4{
+    margin-top: 20%;
+    margin-right:20% ;
+    margin-bottom: 20%;
+}
+
+
+
+.cards{
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 25px;
+   
+}
+.cards:hover{
+    animation-name: float;
+    animation-duration: 3s;
+}
+.cardbag{
+    background-color: #a8d741;
+    padding: 4%;
+    border-radius: 25px;
+    width: 80%;
+    margin-left: 10%;
+}
+
+.poss{
+    margin-left: 6%;
+    margin-bottom: 4%;
+    margin-top: 8%;
+}
+.cardimg{
+    height: 260px;
+    
+}
+.cg{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 60%;
+    margin-left: 20%;
+}
+
+.contact{
+    
+    margin-left: 4%;
+    margin-right: 6%;
+    background-color: black;
+    text-align: center;
+    color: aliceblue;
+    border-radius: 25px;
+}
+.mailphone{
+    margin-top: 8%;
+}
+.contactss{
+    margin-top: 15%;
+    text-align: center;
+    font-size:80px;
+}
+
+.shopcard1{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 100%;
+    
+}
+.shopcard{
+    height: 550px;
+    margin-left: 2%;
+    margin-right: 2%;
+    border-right: solid;
+    border-left: solid;
+    padding: 2%;
+    background-color: #a8d741;
+    border-radius: 25px;
+    
+}
+.shopimg{
+    height: 300px;
+    border-radius: 30px;
+    animation-name: upward;
+    box-shadow:0 10px 20px 0 rgba(0, 0, 0, 0.782);
+    
+}
+
+.shopimg:hover{
+    transform: translatey(-70px);
+    
+    
+}
+
+h2{
+    font-size: 50px;
+}
+.poss1{
+    margin-top: 12%;
+    margin-left: 6%;
+}
+
+.footer1{
+    background-color: black;
+    height: 120px;
+    margin-top: 15%;
+    text-align: center;
+
+}
+
+.social-icon{
+    margin-top: 2%;
+    color: #a8d741;
+    
+}
+.pfoot{
+    color: aliceblue;
+}
+
+.social-icon:hover{
+    width: 60px;
+}
+
+@keyframes float{
+    0%{
+        transform: translatey(0);
+    }
+    50%{
+        transform: translatey(-40px);
+    }
+    100%{
+        transform: translatey(0);
+    }
+}
+@keyframes rotate{
+    0%{
+        transform: rotate(0deg);
+    }
+    50%{
+        transform: rotate(10deg);
+    }
+    75%{
+        transform: rotate(-10deg);
+    }
+    100%{
+        transform: rotate(0);
+    }
+
+}
+
+@media (max-width:993px) {
+    .greenbox1{
+      width: 90%;
+      margin-left: 5%;
+      margin-top: 17%;
+    }
+    .img{
+        width: 100%;
+    }
+    .btn1{
+        width: 100%;
+    }
+    .btn2{
+        width: 100%;
+    }
+    .how{
+        font-size: xx-large;
+    }
+    .greenbox2{
+        position: relative;
+        width: 90%;
+        margin-left: 5%;
+      margin-top: 8%;
+    }
+    .ap{
+        width: 110%;
+        
+    }
+    .feature1{
+        margin-left: 2%;
+    }
+    .blackbox{
+        height: 1600px;
+    }
+    .hat{
+        width: 40%;
+        left: 60%;
+       margin-top: 10%;
+    }
+}
+
+@keyframes up{
+    0%{
+        transform: translatey(0);
+    }
+    50%{
+        transform: translatey(-55px);
+
+    }
+    100%{
+        transform: translatey(0);
+    }
+
+}
